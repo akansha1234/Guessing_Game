@@ -1,0 +1,23 @@
+body {
+  font-family: "Red Hat Display", sans-serif;
+  background: #dedede;
+  box-sizing: border-box;
+  height: 100vh;
+}
+#app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  height: inherit;
+}
+/* h1 {
+  text-align: center;
+  display: inline-block;
+  font-size: 72px;
+} */
+.img {
+  width: 400px;
+  height: 400px;
+}
